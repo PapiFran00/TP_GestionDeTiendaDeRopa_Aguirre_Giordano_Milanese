@@ -14,3 +14,10 @@ Alta, baja y modificación de productos (por ejemplo: remeras, pantalones, buzos
 Alta, baja y modificación de clientes
 Registrar ventas, seleccionando cliente y productos.
 Reportes: Listado de productos con stock bajo y listado de ventas realizadas en un período de tiempo.
+
+
+DIAGRAMA
+https://drive.google.com/file/d/1OfqwCS4RUwtU5fbeIk9GIqeO6L0xpjtV/view?usp=sharing
+
+CONEXION A LA BASES DE DATOS
+https://docs.google.com/document/d/1AE00ClpscH9iMDRs8t36MpSUsDx8rnw8nVWZDbpD3e4/edit?usp=sharing
